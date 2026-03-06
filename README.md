@@ -172,4 +172,5 @@ B.Tech – Artificial Intelligence & Machine Learning
 
 # 📜 License
 
-This project is developed for educational and academic purposes only.](https://www.youtube.com/watch?v=NM2ITEnmaxk&feature=youtu.be)
+This project is developed for educational and academic purposes only.]
+
