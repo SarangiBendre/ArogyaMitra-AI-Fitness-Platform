@@ -9,12 +9,12 @@ This project combines Artificial Intelligence with modern web technologies to pr
 ## 👩‍💻 Project Team
 
 **Group Leader:**
-• Vidhee
+• Vidhee Chopade
 
 **Team Members:**
-• Sarangi Suhas Bendre
-• (Add other member names here)
-• (Add other member names here)
+• Sarangi Bendre
+• Akshta Chavan
+• Sairaj Dole
 
 ---
 
@@ -186,3 +186,4 @@ B.Tech – Artificial Intelligence & Machine Learning
 ## 📜 License
 
 This project is developed for educational purposes.
+
