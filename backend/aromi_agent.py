@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-client = Groq(api_key=os.getenv("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"))
+client = Groq(api_key=os.getenv("Your_Groq_API_Key"))
 
 def aromi_chat(message):
 
