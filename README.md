@@ -1,66 +1,69 @@
-# ArogyaMitra – AI Fitness & Wellness Platform
+# 🧠 ArogyaMitra – AI Fitness & Wellness Platform
 
-ArogyaMitra is an AI-powered health and wellness assistant designed to help users maintain a healthy lifestyle through personalized workout plans, vegetarian meal recommendations, and an AI-based wellness chatbot.
+ArogyaMitra is an **AI-powered health and wellness assistant** designed to help users maintain a healthy lifestyle through **personalized workout plans, vegetarian meal recommendations, and an AI-based wellness chatbot**.
 
-This project combines Artificial Intelligence with modern web technologies to provide a smart fitness assistant for users.
-
----
-
-## 👩‍💻 Project Team
-
-**Group Leader:**
-• Vidhee Chopade
-
-**Team Members:**
-• Sarangi Bendre
-• Akshta Chavan
-• Sairaj Dole
+This project integrates **Artificial Intelligence with modern web technologies** to create a smart digital fitness assistant.
 
 ---
 
-## 🚀 Features
+# 👩‍💻 Project Team
 
-✔ AI-based Workout Plan Generator
-✔ AI-based Vegetarian Meal Planner
-✔ Aromi AI Wellness Chat Assistant
-✔ User Profile Creation System
-✔ Interactive Web Interface
-✔ Fast API-based backend
+**Group Leader**
+
+* Vidhee Chopade
+
+**Team Members**
+
+* Sarangi Bendre
+* Akshta Chavan
+* Sairaj Dole
 
 ---
 
-## 🧠 Technologies Used
+# 🚀 Features
 
-**Frontend**
+* AI-based Workout Plan Generator
+* AI-based Vegetarian Meal Planner
+* Aromi AI Wellness Chat Assistant
+* User Profile Creation System
+* Interactive Web Interface
+* FastAPI based backend services
+
+---
+
+# 🧠 Technologies Used
+
+### Frontend
 
 * React.js
 * HTML
 * CSS
 * Axios
 
-**Backend**
+### Backend
 
 * Python
 * FastAPI
 * Uvicorn
 
-**AI Integration**
+### AI Integration
 
 * Groq LLM API
 
-**Database**
+### Database
 
 * SQLite
 
-**Version Control**
+### Version Control
 
 * Git
 * GitHub
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
+```
 ArogyaMitra
 │
 ├── backend
@@ -79,14 +82,15 @@ ArogyaMitra
 │   └── package.json
 │
 └── README.md
+```
 
 ---
 
-## ⚙️ How to Run the Project
+# ⚙️ How to Run the Project
 
-### 1️⃣ Run Backend
+## 1️⃣ Run Backend
 
-Navigate to backend folder:
+Navigate to the backend folder:
 
 ```
 cd backend
@@ -110,7 +114,7 @@ Backend will run at:
 http://127.0.0.1:8000
 ```
 
-API documentation:
+API Documentation:
 
 ```
 http://127.0.0.1:8000/docs
@@ -118,9 +122,9 @@ http://127.0.0.1:8000/docs
 
 ---
 
-### 2️⃣ Run Frontend
+## 2️⃣ Run Frontend
 
-Navigate to frontend folder:
+Navigate to the frontend folder:
 
 ```
 cd frontend
@@ -146,44 +150,50 @@ http://localhost:3000
 
 ---
 
-## 📊 Application Modules
+# 📊 Application Modules
 
 ### 🏋 Workout Generator
 
-Generates a personalized weekly workout plan based on the user's goal and available workout time.
+Generates a personalized **7-day workout plan** based on the user's fitness goal and available workout time.
 
 ### 🥗 Meal Planner
 
-Provides a 7-day vegetarian meal plan based on calorie requirements.
+Provides a **7-day vegetarian meal plan** based on the user's calorie requirements.
 
 ### 🤖 Aromi AI Chat
 
-An AI assistant that provides fitness and wellness guidance.
+An AI assistant that provides **fitness tips, wellness guidance, and lifestyle advice**.
 
 ### 👤 User Profile
 
-Stores user fitness information such as age, weight, fitness goal, and diet preference.
+Stores user information including:
+
+* Name
+* Age
+* Weight
+* Fitness Goal
+* Diet Preference
+* Workout Time
 
 ---
 
-## 🎯 Future Improvements
+# 🎯 Future Improvements
 
-• Add authentication system
-• Add progress tracking dashboard
-• Integrate wearable fitness data
-• Deploy application on cloud
-• Add mobile application support
+* Add user authentication system
+* Add fitness progress tracking dashboard
+* Integrate wearable fitness device data
+* Deploy application on cloud
+* Add mobile application support
 
 ---
 
-## 📌 Project Type
+# 📌 Project Type
 
 Academic AI Project
-B.Tech – Artificial Intelligence & Machine Learning
+**B.Tech – Artificial Intelligence & Machine Learning**
 
 ---
 
-## 📜 License
+# 📜 License
 
-This project is developed for educational purposes.
-
+This project is developed for **educational and academic purposes only**.
